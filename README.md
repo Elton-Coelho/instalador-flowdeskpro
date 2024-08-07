@@ -60,9 +60,9 @@ Tente atualizar o Conector WWebJS whatsapp.js
 
 
 ## Como Atualizar o Sistema, No terminal ##
-```bash
-o nome padrão da instalação é flowdeskpro
-```
+
+o nome padrão da instalação é ## flowdeskpro ##
+
 ```bash
 cd /home/deploy/flowdeskpro
 ```
