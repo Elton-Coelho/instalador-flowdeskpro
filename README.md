@@ -59,6 +59,20 @@ sudo ./flowdeskpro
 Tente atualizar o Conector WWebJS whatsapp.js
 
 
+## Como Atualizar o Sistema, No terminal ##
+
+o nome padrão da instalação é flowdeskpro
+
+cd /home/deploy/flowdeskpro
+ou local da sua instalação
+
+sudo chmod +x ./update-flowdeskpro
+
+./update-flowdeskpro
+
+o nome padrão da instalação é flowdeskpro
+
+
 ## Recomendação de instalar e deixar Firewall ativado
 
 Seu servidor pode sofrer ataques externos que fazem sistema travar e ter quedas por favor instale e mantenha o firewall ativado.
