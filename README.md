@@ -61,7 +61,7 @@ Tente atualizar o Conector WWebJS whatsapp.js
 
 ## Como Atualizar o Sistema, No terminal ##
 
-o nome padrão da instalação é ## flowdeskpro ##
+o nome padrão da instalação é flowdeskpro
 
 ```bash
 cd /home/deploy/flowdeskpro
@@ -75,7 +75,6 @@ sudo chmod +x ./update-flowdeskpro
 ```bash
 ./update-flowdeskpro
 ```
-o nome padrão da instalação é flowdeskpro
 
 
 ## Recomendação de instalar e deixar Firewall ativado
