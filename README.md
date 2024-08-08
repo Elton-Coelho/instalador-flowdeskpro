@@ -66,9 +66,9 @@ o nome padrão da instalação é flowdeskpro
 ```bash
 cd /home/deploy/flowdeskpro
 ```
-```bash
+
 ou local da sua instalação
-```
+
 ```bash
 sudo chmod +x ./update-flowdeskpro
 ```
