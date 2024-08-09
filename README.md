@@ -59,7 +59,7 @@ sudo ./flowdeskpro
 Tente atualizar o Conector WWebJS whatsapp.js
 
 
-## Como Atualizar o Sistema, No terminal ##
+## Como Atualizar o Sistema ##
 
 o nome padrão da instalação é flowdeskpro
 
