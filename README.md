@@ -38,7 +38,7 @@ Depois reniciar seguir com a instalacao
 cd /root
 ```
 ```bash
-git clone https://github.com/flowdeskpro/instalador-flowdeskpro.git instaladorflowdeskpro
+git clone https://github.com/Elton-Coelho/instalador-flowdeskpro.git instaladorflowdeskpro
 ```
 Editar dados com seus dados, com nano para salvar aperta Ctrl + x
 ```bash
