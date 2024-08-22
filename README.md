@@ -118,6 +118,28 @@ npx quasar build -P -m pwa
 
 Testar as alterações em aba anonima
 
+
+## Variáveis para atendimento
+
+```bash
+{{name}}
+```
+```bash
+{{greeting}}
+```
+06 as 11
+= "Bom dia!"
+11 as 17
+= "Boa tarde!"
+17 as 23
+= "Boa noite!"
+00 as 06
+= "Boa madrugada!"
+
+```bash
+{{protocol}}
+```
+
 ## Erros
 
 "Internal server error: SequelizeConnectionError: could not open file \"global/pg_filenode.map\": Permission denied"
