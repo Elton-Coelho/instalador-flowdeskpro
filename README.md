@@ -1,5 +1,7 @@
 [![Grupo do WhatsApp](https://img.shields.io/badge/Grupo_Whatsapp-FlowDeskPro-blue)](https://chat.whatsapp.com/Ge1rB20Cp6JA5QbIX4ZulJ)
 
+https://chat.whatsapp.com/Ge1rB20Cp6JA5QbIX4ZulJ
+
 ## CRIAR SUBDOMINIO E APONTAR PARA O IP DA SUA VPS
 
 Testado ubuntu 20 e 22
