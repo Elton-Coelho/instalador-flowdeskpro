@@ -2,6 +2,18 @@
 
 https://chat.whatsapp.com/Ge1rB20Cp6JA5QbIX4ZulJ
 
+# FlowDeskPro com Painel SaaS
+
+Um sistema para gestão de atendimento multicanais centralizado.
+
+Usuário Painel SaaS: super@flowdeskpro.io senha: 123456
+
+Usuário normal: admin@flowdeskpro.io senha: 123456
+
+**IMPORTANTE**: não garantimos que a utilização desta ferramenta não irá gerar bloqueio nas contas utilizadas. São bots que em sua maioria utilizam APIs secundarias para comunicação com os fornecedores dos serviços. Use com responsabilidade!
+
+<br/>
+
 ## CRIAR SUBDOMINIO E APONTAR PARA O IP DA SUA VPS
 
 Testado ubuntu 20 e 22
