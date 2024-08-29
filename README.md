@@ -111,8 +111,7 @@ Utilizado UFW para saber mais de pesquisada no google.
 /home/deploy/flowdeskpro/frontend/public
 
 
-
-# Para alterar cores:
+### Para alterar cores:
 
 /home/deploy/flowdeskpro/frontend/src/css/app.sass
 
@@ -120,19 +119,19 @@ Utilizado UFW para saber mais de pesquisada no google.
 
 
 
-# Alterar notificação sonora
+### Alterar notificação sonora
 
 /home/deploy/flowdeskpro/frontend/src/assets
 
 
 
-# Alterar titulo
+### Alterar titulo
 
 /home/deploy/flowdeskpro/frontend/src/index.template.html
 
 
 
-# Mudar nome do aplicativo:
+### Mudar nome do aplicativo:
 
 /home/deploy/flowdeskpro/frontend/quasar.conf
 
