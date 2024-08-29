@@ -99,15 +99,14 @@ Utilizado UFW para saber mais de pesquisada no google.
 
 ## Alterar Frontend
 
-# Para mudar nome do aplicativo:
+### Para mudar nome do aplicativo:
 
 /home/deploy/flowdeskpro/frontend/quasar.conf
 
 /home/deploy/flowdeskpro/frontend/src/index.template.html
 
 
-
-# Para alterar  Icons, Logo e Favicon:
+### Para alterar  Icons, Logo e Favicon:
 
 /home/deploy/flowdeskpro/frontend/public
 
