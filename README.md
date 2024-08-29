@@ -105,9 +105,11 @@ Para mudar nome do aplicativo:
 
 /home/deploy/flowdeskpro/frontend/src/index.template.html
 
+
 Para alterar  Icons, Logo e Favicon:
 
 pasta /home/deploy/flowdeskpro/frontend/public
+
 
 Para alterar cores:
 
@@ -115,18 +117,18 @@ Para alterar cores:
 
 /home/deploy/flowdeskpro/frontend/src/css/quasar.variables.sass
 
-Altera alerta sonoro 
-sound.mp3
-sound.ogg
+
+Altera notificação sonora
 
 /home/deploy/flowdeskpro/frontend/src/assets
+
 
 Alterar titulo
 /home/deploy/flowdeskpro/frontend/src/index.template.html
 
+
 Para mudar nome do aplicativo:
 /home/deploy/flowdeskpro/frontend/quasar.conf
-
 
 
 Sempre alterar usando usuario deploy você pode conectar servidor com aplicativo Bitvise SSH Client. Depois das alterações compilar novamente o Frontend
@@ -178,6 +180,14 @@ das 06 as 11
 ```
 
 ## Erros
+Erro Backend, não consegue logar
+reiniciar o PM2
+```bash
+pm2 restart all
+```
+```bash
+pm2 reload all
+```
 
 "Internal server error: SequelizeConnectionError: could not open file \"global/pg_filenode.map\": Permission denied"
 
