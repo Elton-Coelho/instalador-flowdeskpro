@@ -115,6 +115,11 @@ Para alterar cores:
 
 /home/deploy/flowdeskpro/frontend/src/css/quasar.variables.sass
 
+Altera alerta sonoro 
+
+/home/deploy/flowdeskpro/frontend/src/assets
+
+
 Sempre alterar usando usuario deploy você pode conectar servidor com aplicativo Bitvise SSH Client. Depois das alterações compilar novamente o Frontend
 
 ```bash
@@ -129,7 +134,13 @@ export NODE_OPTIONS=--openssl-legacy-provider
 ```bash
 npx quasar build -P -m pwa
 ```
-
+Ao finalizar reiniciar o PM2
+```bash
+pm2 restart all
+```
+```bash
+pm2 reload all
+```
 Testar as alterações em aba anonima
 
 
