@@ -137,9 +137,9 @@ Utilizado UFW para saber mais de pesquisada no google.
 
 
 
-Sempre alterar usando usuario deploy você pode conectar servidor com aplicativo Bitvise SSH Client.
+### Sempre alterar usando usuario deploy você pode conectar servidor com aplicativo Bitvise SSH Client.
 
-Depois das alterações compilar novamente o Frontend
+### Depois das alterações compilar novamente o Frontend
 
 ```bash
 su deploy
@@ -153,7 +153,7 @@ export NODE_OPTIONS=--openssl-legacy-provider
 ```bash
 npx quasar build -P -m pwa
 ```
-Ao finalizar reiniciar o PM2
+### Ao finalizar reiniciar o PM2
 ```bash
 pm2 restart all
 ```
