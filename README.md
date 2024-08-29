@@ -137,7 +137,7 @@ Utilizado UFW para saber mais de pesquisada no google.
 
 
 
-### Sempre alterar usando usuario deploy você pode conectar servidor com aplicativo Bitvise SSH Client.
+### Sempre alterar usando usuario deploy você pode conectar ao servidor com aplicativo Bitvise SSH Client.
 
 ### Depois das alterações compilar novamente o Frontend
 
