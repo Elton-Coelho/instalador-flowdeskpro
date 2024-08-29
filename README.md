@@ -99,7 +99,7 @@ Utilizado UFW para saber mais de pesquisada no google.
 
 ## Alterar Frontend
 
-Para mudar nome do aplicativo:
+# Para mudar nome do aplicativo:
 
 /home/deploy/flowdeskpro/frontend/quasar.conf
 
@@ -107,13 +107,13 @@ Para mudar nome do aplicativo:
 
 
 
-Para alterar  Icons, Logo e Favicon:
+# Para alterar  Icons, Logo e Favicon:
 
 /home/deploy/flowdeskpro/frontend/public
 
 
 
-Para alterar cores:
+# Para alterar cores:
 
 /home/deploy/flowdeskpro/frontend/src/css/app.sass
 
@@ -121,19 +121,20 @@ Para alterar cores:
 
 
 
-Alterar notificação sonora
+# Alterar notificação sonora
 
 /home/deploy/flowdeskpro/frontend/src/assets
 
 
 
-Alterar titulo
+# Alterar titulo
 
 /home/deploy/flowdeskpro/frontend/src/index.template.html
 
 
 
-Para mudar nome do aplicativo:
+# Mudar nome do aplicativo:
+
 /home/deploy/flowdeskpro/frontend/quasar.conf
 
 
