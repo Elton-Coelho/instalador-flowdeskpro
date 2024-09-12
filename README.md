@@ -190,12 +190,21 @@ das 06 as 11
 ## Erros
 Erro Backend, não consegue logar
 reiniciar o PM2
+
+```bash
+su deploy
+```
 ```bash
 pm2 restart all
 ```
 ```bash
 pm2 reload all
 ```
+ou
+```bash
+pm2 reload all
+```
+
 
 "Internal server error: SequelizeConnectionError: could not open file \"global/pg_filenode.map\": Permission denied"
 
