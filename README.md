@@ -195,10 +195,10 @@ reiniciar o PM2
 su deploy
 ```
 ```bash
-pm2 restart all
+pm2 stop all
 ```
 ```bash
-pm2 reload all
+pm2 restart all
 ```
 ou
 ```bash
